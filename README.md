@@ -1,7 +1,14 @@
 # Final Group Projects (Java) - Server
 
-* **Objective** - to create an implementation of a small web service
-* **Purpose** - to demonstrate the construction of a full-stacked web-application
+Time to **BUILD** as a **GROUP**.
+
+## 
+
+You and a small group of others will be **assigned** one of these project templates.
+
+
+* **Objective** - as a GROUP to create an implementation of a small web service
+* **Purpose** - as a GROUP to demonstrate the construction of a full-stacked web-application
 
 ## Developmental Notes
 ### Minimum Tech Stack
